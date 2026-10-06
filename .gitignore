@@ -1,0 +1,7 @@
+.env
+__pycache__/
+rag/vectordb/
+workspace/*
+logs/*
+!workspace/.gitkeep
+!logs/.gitkeep
